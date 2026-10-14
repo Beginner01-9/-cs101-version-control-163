@@ -1,1 +1,5 @@
-# -cs101-version-control-163
+# My CS Profile
+
+## About Me
+- Name: Apicha Phoyen
+- Major: Computer Science
